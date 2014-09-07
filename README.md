@@ -35,11 +35,11 @@ The log includes launch event (cordova run) and a play-tap on every video.
 
 ### Remote Inspector Log
 
-*N/A
+*N/A*
 
 ### ADB Log
 
-´´´
+```
 W/GLSUser ( 9523): GoogleAccountDataService.getToken()
 W/SignalStrength(  772): getLTELevel - rsrp:2147483647 snr:2147483647 rsrpIconLevel:-1 snrIconLevel:-1
 W/SignalStrength(  772): getLTELevel - rssi:99 rssiIconLevel:0
@@ -551,7 +551,7 @@ W/SignalStrength(  772): getLTELevel - rsrp:2147483647 snr:2147483647 rsrpIconLe
 W/SignalStrength(  772): getLTELevel - rssi:99 rssiIconLevel:0
 W/SignalStrength(  772): getGsmLevel=3
 W/SignalStrength(  772): getLevel=3
-´´´
+```
 
 ---
     
@@ -575,17 +575,17 @@ The log includes launch event (cordova run) and a play-tap on every video.
 
 ### Remote Inspector Log
 
-´´´
+```
 Viewport target-densitydpi is not supported. index.html:6
 Failed to load resource android.resource://com.video.test/raw/mp4video
 Failed to load resource android.resource://com.video.test/raw/webmvideo
 Failed to load resource android.resource://com.video.test/raw/mp4video
 Failed to load resource android.resource://com.video.test/raw/webmvideo
-´´´
+```
 
 ### ADB Log
 
-´´´
+```
 D/AndroidRuntime(20033):
 D/AndroidRuntime(20033): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
 D/AndroidRuntime(20033): CheckJNI is OFF
@@ -858,4 +858,4 @@ D/lights  ( 2263): set_light_buttons: 2
 D/lights  ( 2263): set_light_buttons: 1
 D/lights  ( 2263): set_light_buttons: 2
 I/healthd ( 1840): battery l=7 v=3750 t=31.0 h=2 st=2 c=0 chg=u
-´´´
+```

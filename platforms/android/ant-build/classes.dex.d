@@ -2,6 +2,7 @@
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/ant-build/classes/com/video/test/BuildConfig.class \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/ant-build/classes/com/video/test/R$attr.class \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/ant-build/classes/com/video/test/R$drawable.class \
+/Users/Tom/Github/cordova-html5-video-test/platforms/android/ant-build/classes/com/video/test/R$raw.class \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/ant-build/classes/com/video/test/R$string.class \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/ant-build/classes/com/video/test/R$xml.class \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/ant-build/classes/com/video/test/R.class \

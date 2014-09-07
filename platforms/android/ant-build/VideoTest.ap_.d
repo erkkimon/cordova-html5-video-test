@@ -12,6 +12,9 @@
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/res/drawable-port-mdpi/screen.png \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/res/drawable-port-xhdpi/screen.png \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/Tom/Github/cordova-html5-video-test/platforms/android/res/raw/mp4video.mp4 \
+/Users/Tom/Github/cordova-html5-video-test/platforms/android/res/raw/swfvideo.swf \
+/Users/Tom/Github/cordova-html5-video-test/platforms/android/res/raw/webmvideo.webm \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/res/values/strings.xml \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/res/xml/config.xml \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/ant-build/res/drawable/icon.png \
@@ -35,6 +38,7 @@
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/assets/www/img \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/assets/www/index.html \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/assets/www/js \
+/Users/Tom/Github/cordova-html5-video-test/platforms/android/assets/www/swfvideo.swf \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/assets/www/css/index.css \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/assets/www/img/logo.png \
 /Users/Tom/Github/cordova-html5-video-test/platforms/android/assets/www/js/index.js \

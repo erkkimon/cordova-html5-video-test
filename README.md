@@ -17,7 +17,7 @@ These tests have been performed on 2014-09-07 14–15 EEST 2014.
 
 ## Android 4.1
 
-**Summary:** 
+**Summary:** The video works and autoplays. All the videos play inline. The videos play again, when the play button is being tapped.
 
 ### Version info
 
@@ -557,7 +557,7 @@ W/SignalStrength(  772): getLevel=3
     
 ## Android 4.4
 
-**Summary:** 
+**Summary:** Not any of the videos autoplays. Even tapping the play button doesn't start playback. The videos don't seem to load at all, because only video symbol is being shown in the positions the videos should be loaded to. 
 
 ### Version info
 
